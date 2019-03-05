@@ -49,7 +49,7 @@
 &ensp;&ensp;&nbsp;&nbsp;&nbsp;&nbsp;&ensp;&ensp;&ensp;&ensp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <b> Hardware Setup </b>
   </p>
-<p align="center" >
+<p align="left" >
 <img src="https://github.com/kaushikvapiwala/Kolor-Stone-A-Color-Detection-System/blob/master/Screenshots/wheel.png" width="200" height="350"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/kaushikvapiwala/Kolor-Stone-A-Color-Detection-System/blob/master/Screenshots/hardware.png" width="200" height="350"/>
