@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+    <RelativeLayout tools:context="kolorstone.kolorstoneaccuratecolordetection.MixColor" app:layout_behavior="@string/appbar_scrolling_view_behavior" android:layout_height="match_parent" android:layout_width="match_parent" xmlns:tools="http://schemas.android.com/tools" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <Spinner android:layout_height="50dp" android:layout_width="310dp" android:layout_marginTop="48dp" android:layout_centerHorizontal="true" android:layout_alignParentTop="true" android:id="@+id/spinner1"/>
+
+    <TextView android:layout_height="wrap_content" android:layout_width="wrap_content" android:layout_marginTop="72dp" android:layout_centerHorizontal="true" android:id="@+id/Text" android:textStyle="bold" android:textSize="20dp" android:textAlignment="center" android:text="+" android:inputType="textPersonName" android:ems="10" android:layout_below="@+id/spinner1"/>
+
+    <Spinner android:layout_height="50dp" android:layout_width="310dp" android:id="@+id/spinner2" android:layout_centerVertical="true" android:layout_alignStart="@+id/spinner1" android:layout_alignLeft="@+id/spinner1"/>
+
+    <Button android:layout_height="wrap_content" android:layout_width="wrap_content" android:layout_marginTop="44dp" android:layout_centerHorizontal="true" android:id="@+id/mixbutton" android:text="Mix Colours" android:layout_below="@+id/spinner2"/>
+
+    <ImageView android:layout_height="50dp" android:layout_width="100dp" android:layout_marginTop="62dp" android:id="@+id/rectimage1" android:layout_below="@+id/mixbutton" android:src="@drawable/rectangle" android:layout_alignRight="@+id/mixbutton" android:layout_alignEnd="@+id/mixbutton"/>
+
+    <TextView android:layout_height="wrap_content" android:layout_width="wrap_content" android:layout_marginTop="12dp" android:id="@+id/result" android:textStyle="bold" android:textSize="20dp" android:textAlignment="center" android:text="Resultant Colour" android:inputType="textPersonName" android:ems="10" android:layout_below="@+id/mixbutton" android:layout_alignStart="@+id/Text" android:layout_alignLeft="@+id/Text"/>
+
+    <TextView android:layout_height="wrap_content" android:layout_width="wrap_content" android:layout_marginTop="27dp" android:id="@+id/mixedcolor" android:textStyle="bold" android:textSize="20dp" android:textAlignment="center" android:ems="10" android:layout_below="@+id/rectimage" android:layout_alignStart="@+id/result" android:layout_alignLeft="@+id/result"/>
+
+</RelativeLayout>
