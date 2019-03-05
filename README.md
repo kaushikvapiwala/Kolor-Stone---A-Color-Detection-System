@@ -6,6 +6,13 @@
 <h2> Project Report: </h2> <a href="https://goo.gl/ve3bt4">Link to Project Report</a>
 <br>
 
+<h2> Technologies </h2>
+<p align="left">
+<b> Hardware: </b> Arduino Microcontroller, Color Sensor TCS3200 and Bluetooth HC-05
+  <br>
+ <b> Software: </b> Java for Android, C++ PHP and MYSQL
+</p>
+<br>
 <h2> Android Application </h2>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b> Login Page </b>
@@ -37,10 +44,8 @@
 <img src="https://github.com/kaushikvapiwala/Kolor-Stone-A-Color-Detection-System/blob/master/Screenshots/mix.png" width="200" height="350"/>
 </p>
 
-<br>
-<br>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b> Color Wheel </b>
-<p align="left" >
+<p align="center" >
 <img src="https://github.com/kaushikvapiwala/Kolor-Stone-A-Color-Detection-System/blob/master/Screenshots/wheel.png" width="200" height="350"/>
+<img src="https://github.com/kaushikvapiwala/Kolor-Stone-A-Color-Detection-System/blob/master/Screenshots/hardware.png" width="200" height="350"/>
+
 </p>
