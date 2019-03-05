@@ -45,8 +45,8 @@
 </p>
 
 <p align = "left">
-&ensp;&nbsp;&nbsp;&nbsp;&ensp;&nbsp;&nbsp;&nbsp;&ensp;&nbsp;&nbsp;&nbsp;&ensp;&nbsp;&nbsp;&nbsp;&nbsp;&ensp;&ensp;&nbsp;&nbsp;&nbsp;&nbsp;&ensp;&ensp;&ensp;&nbsp;&nbsp;&nbsp;&nbsp;&ensp;&ensp;&nbsp;&nbsp;&nbsp;&nbsp;&ensp;&ensp;&ensp;&nbsp;&nbsp;&nbsp;&nbsp;&ensp;&ensp;&nbsp;&nbsp;&nbsp;&nbsp;&ensp;&ensp;<b> Color Wheel </b>
-&ensp;&ensp;&nbsp;&nbsp;&nbsp;&nbsp;&ensp;&ensp;&ensp;&ensp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&ensp;&ensp;&nbsp;&nbsp;&nbsp;&nbsp;&ensp;&ensp;&ensp;&nbsp;&nbsp;&nbsp;&nbsp;&ensp;&ensp;&nbsp;&nbsp;&nbsp;&nbsp;&ensp;&ensp;&ensp;&nbsp;&nbsp;&nbsp;&nbsp;&ensp;&ensp;&nbsp;&nbsp;&nbsp;&nbsp;&ensp;&ensp;<b> Color Wheel </b>
+&ensp;&ensp;&ensp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <b> Hardware Setup </b>
   </p>
 <p align="left" >
