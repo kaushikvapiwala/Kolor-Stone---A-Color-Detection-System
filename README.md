@@ -43,9 +43,12 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/kaushikvapiwala/Kolor-Stone-A-Color-Detection-System/blob/master/Screenshots/mix.png" width="200" height="350"/>
 </p>
+
+<p align = "center">
 <b> Color Wheel </b>
 &ensp;&nbsp;&nbsp;&nbsp;&nbsp;&ensp;&ensp;&nbsp;&nbsp;&nbsp;&nbsp;&ensp;&ensp;&nbsp;&nbsp;&nbsp;&nbsp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&nbsp;&nbsp;&nbsp;&nbsp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&nbsp;&nbsp;&nbsp;&nbsp;&ensp;&ensp;&nbsp;&nbsp;&nbsp;&nbsp;&ensp;
 <b> Hardware Setup </b>
+  </p>
 <p align="center" >
 <img src="https://github.com/kaushikvapiwala/Kolor-Stone-A-Color-Detection-System/blob/master/Screenshots/wheel.png" width="200" height="350"/>
 <img src="https://github.com/kaushikvapiwala/Kolor-Stone-A-Color-Detection-System/blob/master/Screenshots/hardware.png" width="200" height="350"/>
