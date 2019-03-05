@@ -1,7 +1,7 @@
 # Kolor-Stone-A-Color-Detection-System
 • Developed an intelligent composition of hardware and a mobile application to detect colours on a real-time basis.  
 • The hardware is created using an Arduino microcontroller which has a color sensor and Bluetooth module. It is programmed using C++.  
-• An android application is developed which fetches colors from the hardware and displays it. Moreover, it can mix and store colors in the database.
+• An android application fetches colors from the hardware and displays it. Moreover, it can mix and store colors in the database.
 
 <h2> Project Report: </h2> <a href="https://goo.gl/ve3bt4">Link to Project Report</a>
 <br>
