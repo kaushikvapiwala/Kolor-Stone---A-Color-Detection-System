@@ -44,6 +44,9 @@
 <img src="https://github.com/kaushikvapiwala/Kolor-Stone-A-Color-Detection-System/blob/master/Screenshots/mix.png" width="200" height="350"/>
 </p>
 
+<br>
+<br>
+
 <p align = "left">
 &nbsp;&nbsp;&ensp;&ensp;&nbsp;&nbsp;&nbsp;&nbsp;&ensp;&ensp;<b> Color Wheel </b>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
