@@ -1,7 +1,7 @@
 {
   "project_info": {
     "project_number": "292520204863",
-    "firebase_url": "https://kolorstone-7f58a.firebaseio.com",
+    "firebase_url": "Add your FireBase URL Here",
     "project_id": "kolorstone-7f58a",
     "storage_bucket": "kolorstone-7f58a.appspot.com"
   },
@@ -29,7 +29,7 @@
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBaXiNpqsnnKxL2qkTZwGtmqsIbY3OPXno"
+          "current_key": "ADD YOUR API KEY HERE"
         }
       ],
       "services": {
