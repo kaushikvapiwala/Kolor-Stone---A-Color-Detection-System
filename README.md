@@ -6,6 +6,10 @@
 <h2> Project Report: </h2> <a href="https://goo.gl/ve3bt4">Link to Project Report</a>
 <br>
 
+<h2> APK </h2> <a href="https://github.com/kaushikvapiwala/Kolor-Stone-A-Color-Detection-System/blob/master/APK/Kolorstone.apk">Install APK from here</a>
+<br>
+
+
 <h2> Technologies </h2>
 <p align="left">
 <b> Hardware: </b> Arduino Microcontroller, Color Sensor TCS3200 and Bluetooth HC-05
